@@ -113,5 +113,5 @@ print("Score = {}".format(round(answer[0],3)))
 
 """**According to the regression model if a student studies for 9.25 hours a day he/she is likely to score 93.89 marks.**
 
-#                       **THANK YOU FOR WATCHING !**
+#         
 """
